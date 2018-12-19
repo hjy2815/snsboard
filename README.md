@@ -1,0 +1,2 @@
+# snsboard
+GitHub Pages
